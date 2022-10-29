@@ -1,0 +1,14 @@
+__pycache__/
+*.mp4
+*.jpg
+*.png
+suren/temp/*
+suren/mask/*
+suren/openpose/*
+suren/temp/temp.py
+*.avi
+*.npy
+suren/temp_args.txt
+suren/temp.py
+suren/temp.py
+eval/temp/*
